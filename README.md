@@ -1,4 +1,4 @@
-# varGuid: Variance-Guided Regression Improving Upon OLS and ANOVA
+## varGuid: Variance-Guided Regression for OLS, ANOVA, and Lasso with a Nonlinear Prediction Extension
 
 ### Authors
 Sibei Liu (sxl4188@miami.edu) and Min Lu (luminwin@gmail.com)
