@@ -1,0 +1,25 @@
+bibentry(
+  bibtype = "Article",
+  header = "To cite varGuid in publications, please use:",
+  title = paste(
+    "Variance-Guided Regression for Heteroscedastic Data with a",
+    "Grouping-Based Extension for Nonlinear Prediction"
+  ),
+  author = c(
+    person(given = "Sibei", family = "Liu"),
+    person(given = "Min", family = "Lu")
+  ),
+  journal = "Statistics in Medicine",
+  year = "2026",
+  volume = "45",
+  number = "13-14",
+  pages = "e70632",
+  doi = "10.1002/sim.70632",
+  textVersion = paste(
+    "Liu S. and Lu M. (2026).",
+    "Variance-Guided Regression for Heteroscedastic Data with a",
+    "Grouping-Based Extension for Nonlinear Prediction.",
+    "Statistics in Medicine. 45(13-14):e70632.",
+    "doi:10.1002/sim.70632."
+  )
+)
