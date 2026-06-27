@@ -96,8 +96,8 @@ A Python implementation is also available at <https://github.com/zionwzz/varGuid
 <td><strong>Python varguid output</strong></td>
 </tr>
 <tr>
-<td><img src="man/figures/varguid_r_output.png" alt="R varGuid output" width="420"></td>
-<td><img src="man/figures/varguid_python_output.png" alt="Python varguid output" width="420"></td>
+<td><img src="man/figures/varguid_r_output.png" alt="R varGuid output" width="410"></td>
+<td><img src="man/figures/varguid_python_output.png" alt="Python varguid output" width="440"></td>
 </tr>
 </table>
 
